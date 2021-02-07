@@ -8,4 +8,4 @@ document.addEventListener('DOMContentLoaded', () => {
   })
 
   document.body.firstElementChild.insertBefore(button, h.nextSibling)
-}
+})
